@@ -9,7 +9,7 @@ const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cooler',
   url: 'https://maiarab.github.io/',
-  baseUrl: 'test-pages/',
+  baseUrl: '/test-pages/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

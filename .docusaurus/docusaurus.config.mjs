@@ -5,14 +5,15 @@
  */
 export default {
   "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "tagline": "Dinosaurs are cooler",
   "url": "https://maiarab.github.io/",
-  "baseUrl": "test-pages/",
+  "baseUrl": "/test-pages/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
   "organizationName": "MaiaraB",
   "projectName": "test-pages",
+  "deploymentBranch": "main",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -25,7 +26,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/maiara.reinaldo/Workspace/test-pages/sidebars.js",
+          "sidebarPath": "/Users/Alexander.khan/Documents/Docusaurus/test-pages/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -33,7 +34,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "/Users/maiara.reinaldo/Workspace/test-pages/src/css/custom.css"
+          "customCss": "/Users/Alexander.khan/Documents/Docusaurus/test-pages/src/css/custom.css"
         }
       }
     ]

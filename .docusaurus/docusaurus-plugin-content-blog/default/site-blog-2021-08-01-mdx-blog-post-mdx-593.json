@@ -1,5 +1,5 @@
 {
-  "permalink": "test-pages/blog/mdx-blog-post",
+  "permalink": "/test-pages/blog/mdx-blog-post",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
   "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
   "title": "MDX Blog Post",
@@ -9,7 +9,7 @@
   "tags": [
     {
       "label": "docusaurus",
-      "permalink": "test-pages/blog/tags/docusaurus"
+      "permalink": "/test-pages/blog/tags/docusaurus"
     }
   ],
   "readingTime": 0.175,
@@ -35,10 +35,10 @@
   },
   "prevItem": {
     "title": "Welcome",
-    "permalink": "test-pages/blog/welcome"
+    "permalink": "/test-pages/blog/welcome"
   },
   "nextItem": {
     "title": "Long Blog Post",
-    "permalink": "test-pages/blog/long-blog-post"
+    "permalink": "/test-pages/blog/long-blog-post"
   }
 }
