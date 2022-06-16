@@ -6,13 +6,13 @@
 export default {
   "title": "My Site",
   "tagline": "Dinosaurs are cool",
-  "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/",
+  "url": "https://maiarab.github.io/",
+  "baseUrl": "test-pages/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "MaiaraB",
+  "projectName": "test-pages",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
