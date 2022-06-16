@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'Data Platform Docs',
   tagline: 'Dinosaurs are cooler',
   url: 'https://maiarab.github.io/',
   baseUrl: '/test-pages/',
@@ -58,10 +58,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Data Platform Docs',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Data Platform Docs Logo',
+          src: 'img/fc.png',
         },
         items: [
           {

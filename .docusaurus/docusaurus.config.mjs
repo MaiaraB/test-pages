@@ -4,7 +4,7 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
+  "title": "Data Platform Docs",
   "tagline": "Dinosaurs are cooler",
   "url": "https://maiarab.github.io/",
   "baseUrl": "/test-pages/",
@@ -41,10 +41,10 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "My Site",
+      "title": "Data Platform Docs",
       "logo": {
-        "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "alt": "Data Platform Docs Logo",
+        "src": "img/fc.png"
       },
       "items": [
         {
