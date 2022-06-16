@@ -13,62 +13,62 @@
             {
               "id": "intro",
               "path": "/test-pages/docs/intro",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "defaultSidebar"
             },
             {
               "id": "tutorial-basics/congratulations",
               "path": "/test-pages/docs/tutorial-basics/congratulations",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "defaultSidebar"
             },
             {
               "id": "tutorial-basics/create-a-blog-post",
               "path": "/test-pages/docs/tutorial-basics/create-a-blog-post",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "defaultSidebar"
             },
             {
               "id": "tutorial-basics/create-a-document",
               "path": "/test-pages/docs/tutorial-basics/create-a-document",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "defaultSidebar"
             },
             {
               "id": "tutorial-basics/create-a-page",
               "path": "/test-pages/docs/tutorial-basics/create-a-page",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "defaultSidebar"
             },
             {
               "id": "tutorial-basics/deploy-your-site",
               "path": "/test-pages/docs/tutorial-basics/deploy-your-site",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "defaultSidebar"
             },
             {
               "id": "tutorial-basics/markdown-features",
               "path": "/test-pages/docs/tutorial-basics/markdown-features",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "defaultSidebar"
             },
             {
               "id": "tutorial-extras/manage-docs-versions",
               "path": "/test-pages/docs/tutorial-extras/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "defaultSidebar"
             },
             {
               "id": "tutorial-extras/translate-your-site",
               "path": "/test-pages/docs/tutorial-extras/translate-your-site",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "defaultSidebar"
             },
             {
               "id": "/category/tutorial---basics",
               "path": "/test-pages/docs/category/tutorial---basics",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "defaultSidebar"
             },
             {
               "id": "/category/tutorial---extras",
               "path": "/test-pages/docs/category/tutorial---extras",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "defaultSidebar"
             }
           ],
           "draftIds": [],
           "sidebars": {
-            "tutorialSidebar": {
+            "defaultSidebar": {
               "link": {
                 "path": "/test-pages/docs/intro",
                 "label": "intro"

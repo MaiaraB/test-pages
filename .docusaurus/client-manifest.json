@@ -235,9 +235,9 @@
     "532": {
       "css": [
         {
-          "file": "assets/css/styles.075a81d0.css",
-          "hash": "9cb0c358c8684b4b",
-          "publicPath": "/test-pages/assets/css/styles.075a81d0.css"
+          "file": "assets/css/styles.d4d52019.css",
+          "hash": "ec98e239e2f4dfc5",
+          "publicPath": "/test-pages/assets/css/styles.d4d52019.css"
         }
       ]
     },
@@ -254,7 +254,7 @@
       "js": [
         {
           "file": "assets/js/runtime~main.70b34633.js",
-          "hash": "9f203f27303d14e0",
+          "hash": "5490052d6b44f7ef",
           "publicPath": "/test-pages/assets/js/runtime~main.70b34633.js"
         }
       ]

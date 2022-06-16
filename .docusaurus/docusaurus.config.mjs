@@ -24,19 +24,7 @@ export default {
   "presets": [
     [
       "classic",
-      {
-        "docs": {
-          "sidebarPath": "/Users/Alexander.khan/Documents/Docusaurus/test-pages/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
-        },
-        "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
-        },
-        "theme": {
-          "customCss": "/Users/Alexander.khan/Documents/Docusaurus/test-pages/src/css/custom.css"
-        }
-      }
+      {}
     ]
   ],
   "themeConfig": {
@@ -59,7 +47,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/fundingcircle",
           "label": "GitHub",
           "position": "right"
         }
@@ -82,16 +70,8 @@ export default {
           "title": "Community",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
               "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "href": "https://twitter.com/fundingcircleuk"
             }
           ]
         },
@@ -104,12 +84,12 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/fundingcircle"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2022 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2022 FC Data Platform"
     },
     "prism": {
       "theme": {

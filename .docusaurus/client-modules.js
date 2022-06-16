@@ -3,5 +3,4 @@ export default [
   require('/Users/Alexander.khan/Documents/Docusaurus/test-pages/node_modules/@docusaurus/theme-classic/lib/prism-include-languages'),
   require('/Users/Alexander.khan/Documents/Docusaurus/test-pages/node_modules/@docusaurus/theme-classic/lib/admonitions.css'),
   require('/Users/Alexander.khan/Documents/Docusaurus/test-pages/node_modules/@docusaurus/theme-classic/lib/nprogress'),
-  require('/Users/Alexander.khan/Documents/Docusaurus/test-pages/src/css/custom.css'),
 ];
