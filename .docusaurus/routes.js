@@ -3,103 +3,68 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/test-pages/__docusaurus/debug',
-    component: ComponentCreator('/test-pages/__docusaurus/debug', 'd28'),
-    exact: true
-  },
-  {
-    path: '/test-pages/__docusaurus/debug/config',
-    component: ComponentCreator('/test-pages/__docusaurus/debug/config', '214'),
-    exact: true
-  },
-  {
-    path: '/test-pages/__docusaurus/debug/content',
-    component: ComponentCreator('/test-pages/__docusaurus/debug/content', '524'),
-    exact: true
-  },
-  {
-    path: '/test-pages/__docusaurus/debug/globalData',
-    component: ComponentCreator('/test-pages/__docusaurus/debug/globalData', '028'),
-    exact: true
-  },
-  {
-    path: '/test-pages/__docusaurus/debug/metadata',
-    component: ComponentCreator('/test-pages/__docusaurus/debug/metadata', '825'),
-    exact: true
-  },
-  {
-    path: '/test-pages/__docusaurus/debug/registry',
-    component: ComponentCreator('/test-pages/__docusaurus/debug/registry', 'eb9'),
-    exact: true
-  },
-  {
-    path: '/test-pages/__docusaurus/debug/routes',
-    component: ComponentCreator('/test-pages/__docusaurus/debug/routes', 'a80'),
-    exact: true
-  },
-  {
     path: '/test-pages/blog',
-    component: ComponentCreator('/test-pages/blog', 'f2d'),
+    component: ComponentCreator('/test-pages/blog', '035'),
     exact: true
   },
   {
     path: '/test-pages/blog/archive',
-    component: ComponentCreator('/test-pages/blog/archive', '4b4'),
+    component: ComponentCreator('/test-pages/blog/archive', '9e5'),
     exact: true
   },
   {
     path: '/test-pages/blog/first-blog-post',
-    component: ComponentCreator('/test-pages/blog/first-blog-post', 'e7a'),
+    component: ComponentCreator('/test-pages/blog/first-blog-post', '366'),
     exact: true
   },
   {
     path: '/test-pages/blog/long-blog-post',
-    component: ComponentCreator('/test-pages/blog/long-blog-post', '408'),
+    component: ComponentCreator('/test-pages/blog/long-blog-post', '21e'),
     exact: true
   },
   {
     path: '/test-pages/blog/mdx-blog-post',
-    component: ComponentCreator('/test-pages/blog/mdx-blog-post', '15b'),
+    component: ComponentCreator('/test-pages/blog/mdx-blog-post', '96c'),
     exact: true
   },
   {
     path: '/test-pages/blog/tags',
-    component: ComponentCreator('/test-pages/blog/tags', '361'),
+    component: ComponentCreator('/test-pages/blog/tags', '557'),
     exact: true
   },
   {
     path: '/test-pages/blog/tags/docusaurus',
-    component: ComponentCreator('/test-pages/blog/tags/docusaurus', '413'),
+    component: ComponentCreator('/test-pages/blog/tags/docusaurus', '64e'),
     exact: true
   },
   {
     path: '/test-pages/blog/tags/facebook',
-    component: ComponentCreator('/test-pages/blog/tags/facebook', 'e14'),
+    component: ComponentCreator('/test-pages/blog/tags/facebook', 'f66'),
     exact: true
   },
   {
     path: '/test-pages/blog/tags/hello',
-    component: ComponentCreator('/test-pages/blog/tags/hello', 'a59'),
+    component: ComponentCreator('/test-pages/blog/tags/hello', '3d7'),
     exact: true
   },
   {
     path: '/test-pages/blog/tags/hola',
-    component: ComponentCreator('/test-pages/blog/tags/hola', '897'),
+    component: ComponentCreator('/test-pages/blog/tags/hola', 'bab'),
     exact: true
   },
   {
     path: '/test-pages/blog/welcome',
-    component: ComponentCreator('/test-pages/blog/welcome', '1b6'),
+    component: ComponentCreator('/test-pages/blog/welcome', 'a7a'),
     exact: true
   },
   {
     path: '/test-pages/markdown-page',
-    component: ComponentCreator('/test-pages/markdown-page', '61b'),
+    component: ComponentCreator('/test-pages/markdown-page', '358'),
     exact: true
   },
   {
     path: '/test-pages/docs',
-    component: ComponentCreator('/test-pages/docs', '91a'),
+    component: ComponentCreator('/test-pages/docs', '221'),
     routes: [
       {
         path: '/test-pages/docs/category/tutorial---basics',
@@ -171,7 +136,7 @@ export default [
   },
   {
     path: '/test-pages/',
-    component: ComponentCreator('/test-pages/', 'e6a'),
+    component: ComponentCreator('/test-pages/', 'cbc'),
     exact: true
   },
   {

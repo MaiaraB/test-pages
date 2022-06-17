@@ -13,7 +13,6 @@ export default {
   "favicon": "img/favicon.ico",
   "organizationName": "MaiaraB",
   "projectName": "test-pages",
-  "deploymentBranch": "main",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
